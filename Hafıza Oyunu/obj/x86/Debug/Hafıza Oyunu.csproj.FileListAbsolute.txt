@@ -1,0 +1,18 @@
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Hafıza Oyunu\Hafıza Oyunu\obj\x86\Debug\Hafıza_Oyunu.Form1.resources
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Hafıza Oyunu\Hafıza Oyunu\obj\x86\Debug\Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Hafıza Oyunu\Hafıza Oyunu\obj\x86\Debug\Hafıza Oyunu.csproj.GenerateResource.Cache
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Hafıza Oyunu\Hafıza Oyunu\obj\x86\Debug\Hafıza Oyunu.exe
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Hafıza Oyunu\Hafıza Oyunu\obj\x86\Debug\Hafıza Oyunu.pdb
+C:\Users\Melih\documents\visual studio 2010\Projects\Hafıza Oyunu\Hafıza Oyunu\obj\x86\Debug\Hafıza Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Hafiza-Oyunu-master\Hafıza Oyunu\obj\x86\Debug\Hafıza Oyunu.exe
+C:\Users\DELL\Desktop\Hafiza-Oyunu-master\Hafıza Oyunu\obj\x86\Debug\Hafıza Oyunu.pdb
+C:\Users\DELL\Desktop\Hafiza-Oyunu-master\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe
+C:\Users\DELL\Desktop\Hafiza-Oyunu-master\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.pdb
+C:\Users\DELL\Desktop\Hafiza-Oyunu-master\Hafıza Oyunu\obj\x86\Debug\Hafıza Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Hafiza-Oyunu-master\Hafıza Oyunu\obj\x86\Debug\Hafıza_Oyunu.Form1.resources
+C:\Users\DELL\Desktop\Hafiza-Oyunu-master\Hafıza Oyunu\obj\x86\Debug\Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\DELL\Desktop\Hafiza-Oyunu-master\Hafıza Oyunu\obj\x86\Debug\Hafıza Oyunu.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta1\odev4\Hafiza-Oyunu\Hafıza Oyunu\obj\x86\Debug\Hafıza Oyunu.exe
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta1\odev4\Hafiza-Oyunu\Hafıza Oyunu\obj\x86\Debug\Hafıza Oyunu.pdb
